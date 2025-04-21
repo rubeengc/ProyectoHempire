@@ -1,10 +1,10 @@
-🌿 Hempire
+# **🌿 Hempire**
 
 Hempire es una tienda online especializada en la venta de productos de CBD de alta calidad. Nuestra misión es acercar los beneficios del cannabidiol a las personas, con productos naturales, seguros y legalmente certificados.
 
 Bienvenido al imperio del cáñamo. 🌱
 
-🛍️ ¿Qué ofrecemos?
+### ***🛍️ ¿Qué ofrecemos?***
 
 -Aceites de CBD de espectro completo y amplio
 
@@ -14,7 +14,7 @@ Bienvenido al imperio del cáñamo. 🌱
 
 -Accesorios 
 
-🚀 Tecnologías utilizadas
+### ***🚀 Tecnologías utilizadas***
 
 -Frontend: HTML5, CSS3, React
 
@@ -24,7 +24,8 @@ Bienvenido al imperio del cáñamo. 🌱
 
 -Diseño: UI/UX intuitivo, responsivo y accesible
 
-📦 Próximas mejoras
+### ***📦 Próximas mejoras***
 
 -Integración sobre una pasarela de pago a traves de Paypal
+
 -Mejoras en diseño de la pagina web
